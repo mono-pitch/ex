@@ -3,6 +3,8 @@
 [Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, Gitea, and Gogs - GitPitch](https://gitpitch.com/)
 
 
+Note:
+(　´･‿･｀)
 
 
 ---
