@@ -2,7 +2,7 @@
 
 [Markdown Presentations For Everyone on GitHub, GitLab, Bitbucket, Gitea, and Gogs - GitPitch](https://gitpitch.com/)
 
-![](https://gitpitch.com/site/img/the-movie.png)
+
 
 
 ---
